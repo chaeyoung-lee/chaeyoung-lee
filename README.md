@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Chaeyoung Lee, and I'm a senior undergraduate at Yale studying Electrical Engineering & Computer Science. I am currently applying for Ph.D. programs in CS for Fall 2023.
+
+- 🤔 I’m interested in cloud computing, mobile and embedded systems, and wireless networks.
+- 🔭 My past projects involve 5G Cloud RAN, Serverless Cloud Computing, Speech Generation, and Voice-based Parkinson's Disease Classification.
+- 💼 I've interned at Apple Siri TTS, Upstage AI, and Naver Clova AI Research.
+- 📫 How to reach me: chaeyoung.lee@yale.edu
+
 <!--
 **chaeyoung-lee/chaeyoung-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
