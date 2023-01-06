@@ -17,6 +17,8 @@ For details, here is my [CV](https://drive.google.com/file/d/1a1D1fxRyM41c5k-XRT
 
 [![gh-stats](https://github-readme-stats.vercel.app/api?username=chaeyoung-lee&show_icons=true&hide=commits&count_private=true&theme=transparent)](https://github.com/chaeyoung-lee)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyoung-lee)](https://github.com/chaeyoung-lee)
+
 <!--
 **chaeyoung-lee/chaeyoung-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
