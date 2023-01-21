@@ -13,11 +13,11 @@ In my research, I'm interested in **cloud computing** and **mobile embedded syst
 * OCR Team at [Naver, Clova AI Research](https://www.navercorp.com/en) on Text Detection Modeling
 * OCR Team at [Upstage AI](https://en.upstage.ai/) on OCR Data Collection
 
-For details, here is my [CV](https://drive.google.com/file/d/1a1D1fxRyM41c5k-XRT26QPiJ4nWmhz2l/view?usp=sharing).
+For details, here is my [CV]([https://drive.google.com/file/d/1a1D1fxRyM41c5k-XRT26QPiJ4nWmhz2l/view?usp=sharing](https://drive.google.com/file/d/1Nc1fLH_74jn4BtzRtKWrn2dVil9XY_gF/view?usp=sharing)).
 
-[![gh-stats](https://github-readme-stats.vercel.app/api?username=chaeyoung-lee&show_icons=true&hide=commits&count_private=true&theme=transparent)](https://github.com/chaeyoung-lee)
+<!-- [![gh-stats](https://github-readme-stats.vercel.app/api?username=chaeyoung-lee&show_icons=true&hide=commits&count_private=true&theme=transparent)](https://github.com/chaeyoung-lee)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyoung-lee&layout=compact)](https://github.com/chaeyoung-lee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyoung-lee&layout=compact)](https://github.com/chaeyoung-lee) -->
 
 <!--
 **chaeyoung-lee/chaeyoung-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
