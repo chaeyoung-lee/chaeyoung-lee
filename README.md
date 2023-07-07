@@ -2,6 +2,7 @@
 
 [![google-scholar](https://img.shields.io/badge/google%20scholar-black?&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=lFAXJhUAAAAJ&hl=en&authuser=1)](https://scholar.google.com/citations?user=lFAXJhUAAAAJ&hl=en&authuser=1)
 [![linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cylee-cs/)](https://www.linkedin.com/in/cylee-cs/)
+[![blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://chaeyoung-lee.github.io)](https://chaeyoung-lee.github.io)
 
 I'm an incoming Ph.D. student at Stanford studying Computer Science.
 
