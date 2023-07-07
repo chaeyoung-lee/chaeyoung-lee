@@ -3,7 +3,7 @@
 [![google-scholar](https://img.shields.io/badge/google%20scholar-black?&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=lFAXJhUAAAAJ&hl=en&authuser=1)](https://scholar.google.com/citations?user=lFAXJhUAAAAJ&hl=en&authuser=1)
 [![linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cylee-cs/)](https://www.linkedin.com/in/cylee-cs/)
 
-I'm a senior at Yale studying Electrical Engineering & Yale.
+I'm an incoming Ph.D. student at Stanford studying Computer Science.
 
 In my research, I'm interested in **cloud computing** and **mobile embedded systems**. I've worked with
 
