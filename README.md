@@ -4,9 +4,9 @@
 [![linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cylee-cs/)](https://www.linkedin.com/in/cylee-cs/)
 [![blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://chaeyoung-lee.github.io)](https://chaeyoung-lee.github.io)
 
-I'm an incoming Ph.D. student at Stanford studying Computer Science.
+I'm a first-year Ph.D. student at Stanford studying Computer Science.
 
-In my research, I'm interested in **cloud computing** and **mobile embedded systems**. I've worked with
+In my research, I'm interested in **energy-efficient computing** and **mobile embedded systems**. I am currently advised by Professor Zerina Kapetanovic. In the past, I've worked with
 
 * Professor Lin Zhong at [Yale Efficient Computing Lab](http://www.yecl.org/) on 5G Cloud RAN
 * Dr. Robert Bjornson at [Yale Center for Research Computing](https://research.computing.yale.edu/) on Serverless Cloud Computing
