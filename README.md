@@ -1,12 +1,12 @@
-### Hi there 👋 I'm Chaeyoung!
+### Hi 👋 I'm Chaeyoung!
 
 [![google-scholar](https://img.shields.io/badge/google%20scholar-black?&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=lFAXJhUAAAAJ&hl=en&authuser=1)](https://scholar.google.com/citations?user=lFAXJhUAAAAJ&hl=en&authuser=1)
 [![linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cylee-cs/)](https://www.linkedin.com/in/cylee-cs/)
 [![blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://chaeyoung-lee.github.io)](https://chaeyoung-lee.github.io)
 
-I'm a first-year Ph.D. student at Stanford studying Computer Science.
+I'm a first-year Ph.D. candidate at Stanford studying Computer Science.
 
-In my research, I'm interested in **energy-efficient computing** and **mobile embedded systems**. I am currently advised by Professor Zerina Kapetanovic. In the past, I've worked with
+In my research, I'm interested in **energy-efficient machine learning** and **mobile embedded systems**. I am currently advised by Professors Zerina Kapetanovic and Sara Achour. In the past, I've worked with
 
 * Professor Lin Zhong at [Yale Efficient Computing Lab](http://www.yecl.org/) on 5G Cloud RAN
 * Dr. Robert Bjornson at [Yale Center for Research Computing](https://research.computing.yale.edu/) on Serverless Cloud Computing
