@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cylee-cs/)](https://www.linkedin.com/in/cylee-cs/)
 [![blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://chaeyoung-lee.github.io)](https://chaeyoung-lee.github.io)
 
-I'm a first-year Ph.D. candidate at Stanford studying Computer Science.
+I'm a third-year Ph.D. candidate at Stanford studying Computer Science.
 
 In my research, I'm interested in **energy-efficient machine learning** and **mobile embedded systems**. I am currently advised by Professors Zerina Kapetanovic and Sara Achour. In the past, I've worked with
 
