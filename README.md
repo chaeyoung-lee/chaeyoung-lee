@@ -14,7 +14,7 @@ In my research, I'm interested in **energy-efficient machine learning** and **mo
 * OCR Team at [Naver, Clova AI Research](https://www.navercorp.com/en) on Text Detection Modeling
 * OCR Team at [Upstage AI](https://en.upstage.ai/) on OCR Data Collection
 
-For details, here is my [CV](https://chaeyoung-lee.github.io/assets/cv.pdf).
+For my most up-to-date CV, please see my [website](https://stanford.edu/~chae/).
 
 <!-- [![gh-stats](https://github-readme-stats.vercel.app/api?username=chaeyoung-lee&show_icons=true&hide=commits&count_private=true&theme=transparent)](https://github.com/chaeyoung-lee)
 
