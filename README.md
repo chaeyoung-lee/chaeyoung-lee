@@ -8,6 +8,7 @@ I'm a third-year Ph.D. candidate at Stanford studying Computer Science.
 
 In my research, I'm interested in **energy-efficient machine learning** and **mobile embedded systems**. I am currently advised by Professors Zerina Kapetanovic and Sara Achour. In the past, I've worked with
 
+* Microsoft Research on [Project Solara](https://commandline.microsoft.com/project-solara-build-2026/), an ecosystem of agent-first devices
 * Professor Lin Zhong at [Yale Efficient Computing Lab](http://www.yecl.org/) on 5G Cloud RAN
 * Dr. Robert Bjornson at [Yale Center for Research Computing](https://research.computing.yale.edu/) on Serverless Cloud Computing
 * Siri TTS Team at [Apple](https://www.apple.com/) on Multi-speaker Multi-prosody TTS Modeling
